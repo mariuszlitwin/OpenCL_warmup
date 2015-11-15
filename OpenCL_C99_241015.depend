@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1446682013 source:/home/hadouken/CodeBlocks/OpenCL_C99_241015/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<CL/cl.h>
+	"ml_typedef.h"
+	"mlcl.h"
+	"pz_file.h"
+
+1445702319 /home/hadouken/CodeBlocks/OpenCL_C99_241015/ml_typedef.h
+
+1445816628 /home/hadouken/CodeBlocks/OpenCL_C99_241015/mlcl.h
+	<CL/cl.h>
+
+1446663962 source:/home/hadouken/CodeBlocks/OpenCL_C99_241015/mlcl.c
+	<stdlib.h>
+	<string.h>
+	<CL/cl.h>
+	"mlcl.h"
+
+1446019530 /home/hadouken/CodeBlocks/OpenCL_C99_241015/pz_file.h
+	<stdio.h>
+
+1446017454 source:/home/hadouken/CodeBlocks/OpenCL_C99_241015/pz_file.c
+	<stdlib.h>
+	"pz_file.h"
+
